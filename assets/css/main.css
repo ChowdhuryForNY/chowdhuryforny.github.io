@@ -3030,13 +3030,14 @@
 
 	#banner {
 		background-color: #443d36;
-		background-image: url("images/banner.svg");
-		background-position: 25% bottom;
-		background-repeat: repeat-x;
-		background-size: 1500px 300px;
+		background-image: url("../../images/banner.jpg");
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
 		color: #fff;
-		padding: 16em 0 14em 0;
+		padding: 0 0 0 0;
 		text-align: center;
+		height: auto;
 	}
 
 		#banner :last-child {
