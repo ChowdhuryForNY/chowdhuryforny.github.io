@@ -3127,6 +3127,7 @@
 
 			#banner {
 				background-size: cover;
+				padding: 35em 0 10em 0;
 			}
 
 	}
@@ -3168,6 +3169,7 @@
 
 			#banner {
 				background-size: cover;
+				padding: 25em 0 8em 0;
 			}
 
 				#banner h2 {
@@ -3274,6 +3276,7 @@
 		/* Banner */
 
 			#banner {
+				padding: 15em 2em;
 			}
 
 		/* Contact */
@@ -3511,6 +3514,7 @@
 
 			#banner {
 				background-size: cover;
+				padding: 5em 2em 4em 2em;
 			}
 
 				#banner h2 {
@@ -3627,6 +3631,7 @@
 
 			#banner {
 				background-size: cover;
+				padding: 7em 2em 6em 2em;
 			}
 
 		/* Contact */
