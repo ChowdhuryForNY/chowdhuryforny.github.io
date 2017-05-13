@@ -1917,14 +1917,14 @@
 		margin: 0 0.25em;
 		padding: 0.25em 0.65em;
 	}
-	#bigNum h1 {
+	.bigNum h1 {
 		font-size:72px;
 		font-weight: bold;
 		padding-top: 20px;
 		padding-bottom: 15px;
 		margin: 0;
 	}
-	#bigNum {
+	.bigNum {
 		font-size: 24px
 	}
 
