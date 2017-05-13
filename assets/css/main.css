@@ -3035,9 +3035,10 @@
 		background-repeat: no-repeat;
 		background-size: cover;
 		color: #fff;
-		padding: 0 0 0 0;
+		padding: 40em 0 8em 0;
 		text-align: center;
 		height: auto;
+
 	}
 
 		#banner :last-child {
@@ -3126,7 +3127,6 @@
 
 			#banner {
 				background-size: cover;
-				padding: 12em 0 10em 0;
 			}
 
 	}
@@ -3168,7 +3168,6 @@
 
 			#banner {
 				background-size: cover;
-				padding: 10em 0 8em 0;
 			}
 
 				#banner h2 {
@@ -3275,7 +3274,6 @@
 		/* Banner */
 
 			#banner {
-				padding: 8em 2em;
 			}
 
 		/* Contact */
@@ -3512,8 +3510,7 @@
 		/* Banner */
 
 			#banner {
-				background-size: 675px 135px;
-				padding: 5em 2em 4em 2em;
+				background-size: cover;
 			}
 
 				#banner h2 {
@@ -3629,8 +3626,7 @@
 		/* Banner */
 
 			#banner {
-				background-size: 540px 108px;
-				padding: 7em 2em 6em 2em;
+				background-size: cover;
 			}
 
 		/* Contact */
